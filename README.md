@@ -1,1 +1,7 @@
 # Sapa
+
+bg
+
+obj
+
+req
